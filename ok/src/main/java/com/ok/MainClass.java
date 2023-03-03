@@ -7,6 +7,13 @@ public class MainClass {
 		System.out.println("Hello Japan");
 		System.out.println("Hello is the world");
 
+		
+		System.out.println("Hello Japan");
+		System.out.println("Hello is the world");
+		System.out.println("Hello Japan");
+		System.out.println("Hello is the world");
+		System.out.println("Hello Japan");
+		System.out.println("Hello is the world");
 	}
 
 }
